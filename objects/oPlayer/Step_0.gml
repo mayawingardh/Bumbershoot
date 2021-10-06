@@ -12,6 +12,20 @@ if (hitPoints < 1)
 	oPlayer.image_alpha = 0;
 	oPlayer.moveSpeed = 0;
 	
+	if (hitPoints < 0)
+	
+	{
+		hitPoints=0;
+	}
+	
+if (deathTimer> 30)
+{
+		
+	room_goto(rHighScore);
+	
+	
+}
+	
 	
 	audio_play_sound(Falldeath, 5, false);
 	
