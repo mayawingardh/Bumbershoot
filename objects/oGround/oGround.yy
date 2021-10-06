@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGround",
-    "path": "sprites/sGround/sGround.yy",
+    "name": "Empty64",
+    "path": "sprites/Empty64/Empty64.yy",
   },
   "solid": false,
   "visible": true,

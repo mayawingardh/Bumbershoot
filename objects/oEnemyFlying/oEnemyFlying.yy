@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemyFlying",
-    "path": "sprites/sEnemyFlying/sEnemyFlying.yy",
+    "name": "spr_enemy_flying",
+    "path": "sprites/spr_enemy_flying/spr_enemy_flying.yy",
   },
   "solid": false,
   "visible": true,

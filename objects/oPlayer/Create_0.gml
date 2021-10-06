@@ -25,5 +25,3 @@ moveSpeed = 2;
 
 image_index = 2;
 speed = 0;
-
-endingTimer = 0;

@@ -1,4 +1,4 @@
-ammo = oPlayer.ammo;
+ammo = 0;
 firing = false;
 
 

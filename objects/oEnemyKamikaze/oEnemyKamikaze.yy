@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sEnemyKamikaze",
-    "path": "sprites/sEnemyKamikaze/sEnemyKamikaze.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

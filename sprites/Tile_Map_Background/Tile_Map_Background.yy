@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1279,
+  "bbox_right": 639,
   "bbox_top": 0,
-  "bbox_bottom": 1439,
+  "bbox_bottom": 719,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1280,
-  "height": 1440,
+  "width": 640,
+  "height": 720,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"30549d08-e6fb-454d-9493-16e9d66b3862","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"30549d08-e6fb-454d-9493-16e9d66b3862","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"LayerId":{"name":"14c7d4c7-2ad6-4610-b104-91421e0054b2","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Tile_Map_Background","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","name":"30549d08-e6fb-454d-9493-16e9d66b3862","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"25e3e817-9181-4dfd-8078-c8b199745ea5","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"25e3e817-9181-4dfd-8078-c8b199745ea5","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"LayerId":{"name":"dc308174-6f65-416e-8108-36e3c42d9c7b","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Tile_Map_Background","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","name":"25e3e817-9181-4dfd-8078-c8b199745ea5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Tile_Map_Background","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b59eafa3-fe0f-449c-a967-a1299ac59b2f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30549d08-e6fb-454d-9493-16e9d66b3862","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3e6b8a9c-9fd8-42e5-b6f1-c7e0035c3310","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"25e3e817-9181-4dfd-8078-c8b199745ea5","path":"sprites/Tile_Map_Background/Tile_Map_Background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"14c7d4c7-2ad6-4610-b104-91421e0054b2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dc308174-6f65-416e-8108-36e3c42d9c7b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

@@ -24,18 +24,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6b99ad5d-1df6-4c69-ad06-0e74d8091ab3","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b99ad5d-1df6-4c69-ad06-0e74d8091ab3","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"3dc7e2b3-bcf7-4765-bbe4-fbac07af8cbf","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"6b99ad5d-1df6-4c69-ad06-0e74d8091ab3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9359bc0d-fe48-4e4d-a87e-3d99174bb211","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9359bc0d-fe48-4e4d-a87e-3d99174bb211","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"3dc7e2b3-bcf7-4765-bbe4-fbac07af8cbf","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"9359bc0d-fe48-4e4d-a87e-3d99174bb211","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3e76f972-92df-489a-8cf8-14ef0517bdeb","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3e76f972-92df-489a-8cf8-14ef0517bdeb","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"3dc7e2b3-bcf7-4765-bbe4-fbac07af8cbf","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"3e76f972-92df-489a-8cf8-14ef0517bdeb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4428d399-a350-401b-a192-a4286721e9d7","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4428d399-a350-401b-a192-a4286721e9d7","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"3dc7e2b3-bcf7-4765-bbe4-fbac07af8cbf","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"4428d399-a350-401b-a192-a4286721e9d7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"077a8394-a4d9-4fe1-bcf6-50982cb31df6","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"077a8394-a4d9-4fe1-bcf6-50982cb31df6","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"9f54343e-fdc7-47da-b12b-dcd3ce70ed13","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"077a8394-a4d9-4fe1-bcf6-50982cb31df6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"27bf289a-b8f1-4df5-ae49-6d8a3b7574c9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"27bf289a-b8f1-4df5-ae49-6d8a3b7574c9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"9f54343e-fdc7-47da-b12b-dcd3ce70ed13","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"27bf289a-b8f1-4df5-ae49-6d8a3b7574c9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f40f086c-1b19-4170-ab0d-89d6d5d969e9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f40f086c-1b19-4170-ab0d-89d6d5d969e9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"9f54343e-fdc7-47da-b12b-dcd3ce70ed13","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"f40f086c-1b19-4170-ab0d-89d6d5d969e9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7251060c-bebf-4206-902c-d47eabf207a1","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7251060c-bebf-4206-902c-d47eabf207a1","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"LayerId":{"name":"9f54343e-fdc7-47da-b12b-dcd3ce70ed13","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","name":"7251060c-bebf-4206-902c-d47eabf207a1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_enemy_flying_2","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},
@@ -50,10 +50,10 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c24d5fc1-8e1c-4b2c-b14c-3493ffb76d74","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b99ad5d-1df6-4c69-ad06-0e74d8091ab3","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"11f911f4-fa1a-4d74-9913-66df80689f40","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9359bc0d-fe48-4e4d-a87e-3d99174bb211","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"43191373-a82f-41c4-b429-9831bb12feec","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e76f972-92df-489a-8cf8-14ef0517bdeb","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"d537bb39-1c4a-492f-b193-c941a036a9fa","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4428d399-a350-401b-a192-a4286721e9d7","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fca50036-62b1-4252-8454-189b7c77a72a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"077a8394-a4d9-4fe1-bcf6-50982cb31df6","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cb3b6327-0844-44f1-a793-2ebbd305e086","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"27bf289a-b8f1-4df5-ae49-6d8a3b7574c9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c816666f-90ce-4a69-af6d-9d68187f26af","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f40f086c-1b19-4170-ab0d-89d6d5d969e9","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"78f4cec4-d8e6-4312-82c2-f0cfa84321c3","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7251060c-bebf-4206-902c-d47eabf207a1","path":"sprites/spr_enemy_flying_2/spr_enemy_flying_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -77,7 +77,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3dc7e2b3-bcf7-4765-bbe4-fbac07af8cbf","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9f54343e-fdc7-47da-b12b-dcd3ce70ed13","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

@@ -1,2 +1,2 @@
-depth = 50;
+depth = 100;
 playerLandedTime = 0;
