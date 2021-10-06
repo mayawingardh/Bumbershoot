@@ -160,7 +160,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_1E10635A","path":"rooms/rRoom/rRoom.yy",},
-    {"name":"inst_5080A0C0","path":"rooms/rRoom/rRoom.yy",},
     {"name":"inst_3E853582","path":"rooms/rRoom/rRoom.yy",},
     {"name":"inst_2DE9CC59","path":"rooms/rRoom/rRoom.yy",},
     {"name":"inst_2D7F6625","path":"rooms/rRoom/rRoom.yy",},
@@ -168,6 +167,7 @@
     {"name":"inst_2BBB8023","path":"rooms/rRoom/rRoom.yy",},
     {"name":"inst_379F2CE5","path":"rooms/rRoom/rRoom.yy",},
     {"name":"inst_6EC9EFC2","path":"rooms/rRoom/rRoom.yy",},
+    {"name":"inst_5080A0C0","path":"rooms/rRoom/rRoom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

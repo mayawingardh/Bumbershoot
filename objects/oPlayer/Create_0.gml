@@ -23,5 +23,13 @@ braking = 0;
 
 moveSpeed = 2;
 
-image_index = 2;
+//image_index = 2;
 speed = 0;
+
+vx = 0;
+vy = 0;
+dir = 0;
+moveRight=0;
+moveLeft=0;
+moveUp=0;
+moveDown=0;
