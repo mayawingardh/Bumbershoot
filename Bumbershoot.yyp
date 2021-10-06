@@ -44,6 +44,7 @@
     {"id":{"name":"Landing1","path":"sounds/Landing1/Landing1.yy",},"order":3,},
     {"id":{"name":"Background_Ruins","path":"sprites/Background_Ruins/Background_Ruins.yy",},"order":10,},
     {"id":{"name":"FontMain","path":"fonts/FontMain/FontMain.yy",},"order":0,},
+    {"id":{"name":"oHighScore","path":"objects/oHighScore/oHighScore.yy",},"order":15,},
     {"id":{"name":"Damage1","path":"sounds/Damage1/Damage1.yy",},"order":9,},
     {"id":{"name":"NOFX","path":"sounds/NOFX/NOFX.yy",},"order":21,},
     {"id":{"name":"Tile_Map_Clouds","path":"sprites/Tile_Map_Clouds/Tile_Map_Clouds.yy",},"order":31,},
