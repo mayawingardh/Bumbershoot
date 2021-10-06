@@ -18,7 +18,7 @@ if (hitPoints < 1)
 		hitPoints=0;
 	}
 	
-if (deathTimer> 30)
+if (deathTimer> 1)
 {
 		
 	room_goto(rHighScore);
